@@ -22,3 +22,4 @@ Restart PowerShell, CMD, or any other terminal emulator to be able to use the al
 | ls      | dir       | List the contents of a directory |
 | pwd     | cd        | Prints the working directory |
 | touch <filename> |  | Create a new file |
+
