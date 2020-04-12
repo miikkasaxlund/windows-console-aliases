@@ -6,7 +6,7 @@ This repository contains UNIX/Linux styled commands as shell aliases for systems
 
 **Clone the repository**
 ```
-git clone 
+git clone https://github.com/miikkasaxlund/windows-console-aliases 
 ```
 
 **Add folder path to the PATH environment variable**
